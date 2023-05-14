@@ -1,0 +1,12 @@
+﻿{
+"db_connect":{
+	"creator": "pymysql",
+	"host": "140.118.1.26",
+	"port": 3306,
+	"user": "root",
+	"password": "simslab7111",
+	"charset": "utf8",
+	"database": "2023bda",
+	"maxconnections": 10
+	}
+}

@@ -1,0 +1,77 @@
+2023-05-14 12:51:01,643:ERROR:(20009, b'DB-Lib error message 20009, severity 9:\nUnable to connect: Adaptive Server is unavailable or does not exist (140.118.1.26)\nNet-Lib error during Unknown error (10060)\nDB-Lib error message 20009, severity 9:\nUnable to connect: Adaptive Server is unavailable or does not exist (140.118.1.26)\nNet-Lib error during Unknown error (10060)\n')
+2023-05-14 12:53:14,962:ERROR:(20002, b'DB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (140.118.1.26)\nDB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (140.118.1.26)\n')
+2023-05-14 12:54:48,041:ERROR:(20002, b'DB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (140.118.1.26)\nDB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (140.118.1.26)\n')
+2023-05-14 12:56:24,215:ERROR:(20002, b'DB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (140.118.1.26)\nDB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (140.118.1.26)\n')
+2023-05-14 12:58:38,647:ERROR:(20002, b'DB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (140.118.1.26)\nDB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (140.118.1.26)\n')
+2023-05-14 13:11:23,231:ERROR:(20002, b'DB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (140.118.1.26)\nDB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (140.118.1.26)\n')
+2023-05-14 13:12:11,206:ERROR:(20002, b'DB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (140.118.1.26)\nDB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (140.118.1.26)\n')
+2023-05-14 13:12:15,165:ERROR:(20002, b'DB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (140.118.1.26)\nDB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (140.118.1.26)\n')
+2023-05-14 13:13:26,535:ERROR:(20002, b'DB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (140.118.1.26)\nDB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (140.118.1.26)\n')
+2023-05-14 13:19:52,452:ERROR:(20002, b'DB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (140.118.1.26)\nDB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (140.118.1.26)\n')
+2023-05-14 13:20:13,746:ERROR:(20002, b'DB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (140.118.1.26)\nDB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (140.118.1.26)\n')
+2023-05-14 13:23:21,593:ERROR:(20002, b'DB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (140.118.1.26)\nDB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (140.118.1.26)\n')
+2023-05-14 13:25:52,190:ERROR:{'creator': <module 'pymssql' from 'c:\\Users\\gary1\\anaconda3\\lib\\site-packages\\pymssql\\__init__.py'>, 'host': '140.118.1.26', 'port': 3306, 'user': 'root', 'password': 'simslab7111', 'charset': 'utf8', 'database': '2023bda', 'maxconnections': 10} is not a connection provider.
+2023-05-14 13:32:19,693:ERROR:{'creator': <module 'pymssql' from 'c:\\Users\\gary1\\anaconda3\\lib\\site-packages\\pymssql\\__init__.py'>, 'host': '140.118.1.26', 'port': 3306, 'user': 'root', 'password': 'simslab7111', 'charset': 'utf8', 'database': '2023bda', 'maxconnections': 10} is not a connection provider.
+2023-05-14 13:33:10,809:ERROR:{'creator': <module 'pymssql' from 'c:\\Users\\gary1\\anaconda3\\lib\\site-packages\\pymssql\\__init__.py'>, 'host': '140.118.1.26', 'port': 3306, 'user': 'root', 'password': 'simslab7111', 'charset': 'utf8', 'database': '2023bda', 'maxconnections': 10} is not a connection provider.
+2023-05-14 13:34:14,082:ERROR:(20002, b'DB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (140.118.1.26)\nDB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (140.118.1.26)\n')
+2023-05-14 13:35:30,696:ERROR:(20002, b'DB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (140.118.1.26)\nDB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (140.118.1.26)\n')
+2023-05-14 13:42:40,090:INFO:steps in db manager
+2023-05-14 13:42:40,091:INFO:message : conduct the sql => SELECT * FROM Behavior WHERE UNIX_TIMESTAMP(HitTime) BETWEEN 1679673600 AND 1679760000
+2023-05-14 13:42:40,214:ERROR:(1146, "Table '2023bda.MemberDate' doesn't exist")
+2023-05-14 13:46:55,606:INFO:steps in db manager
+2023-05-14 13:46:55,607:INFO:message : conduct the sql => SELECT * FROM Behavior WHERE UNIX_TIMESTAMP(HitTime) BETWEEN 1679673600 AND 1679760000
+2023-05-14 13:46:55,720:ERROR:(1146, "Table '2023bda.MemberDate' doesn't exist")
+2023-05-14 13:51:35,844:INFO:steps in db manager
+2023-05-14 13:51:35,844:INFO:message : conduct the sql => SELECT * FROM Behavior WHERE UNIX_TIMESTAMP(HitTime) BETWEEN 1679673600 AND 1679760000
+2023-05-14 13:53:40,602:INFO:steps in db manager
+2023-05-14 13:53:40,602:INFO:message : conduct the sql => SELECT * FROM MemberData
+2023-05-14 13:53:52,270:INFO:steps in db manager
+2023-05-14 13:53:52,271:INFO:message : conduct the sql => SELECT * FROM OrderData WHERE OrderDateTime BETWEEN 2023-03-25 AND 2023-03-26
+2023-05-14 13:54:15,494:INFO:steps in db manager
+2023-05-14 13:54:15,494:INFO:message : conduct the sql => SELECT * FROM OrderSlave WHERE OrderDateTime BETWEEN 2023-03-25 AND 2023-03-26
+2023-05-14 13:54:16,643:INFO:steps in db manager
+2023-05-14 13:54:16,643:INFO:message : conduct the sql => SELECT * FROM SalePageData
+2023-05-14 13:57:21,111:INFO:steps in db manager
+2023-05-14 13:57:21,112:INFO:message : conduct the sql => SELECT * FROM SegmentData
+2023-05-14 13:57:22,047:INFO:Finish loading data from DB
+2023-05-14 14:04:49,552:INFO:steps in db manager
+2023-05-14 14:04:49,553:INFO:message : conduct the sql => SELECT * FROM Behavior WHERE UNIX_TIMESTAMP(HitTime) BETWEEN 1679673600000 AND 1679760000000
+2023-05-14 14:06:56,953:INFO:steps in db manager
+2023-05-14 14:06:56,954:INFO:message : conduct the sql => SELECT * FROM MemberData
+2023-05-14 14:07:07,958:INFO:steps in db manager
+2023-05-14 14:07:07,958:INFO:message : conduct the sql => SELECT * FROM OrderData WHERE OrderDateTime BETWEEN 2023-03-25 AND 2023-03-26
+2023-05-14 14:07:32,412:INFO:steps in db manager
+2023-05-14 14:07:32,412:INFO:message : conduct the sql => SELECT * FROM OrderSlave WHERE OrderDateTime BETWEEN 2023-03-25 AND 2023-03-26
+2023-05-14 14:07:33,627:INFO:steps in db manager
+2023-05-14 14:07:33,627:INFO:message : conduct the sql => SELECT * FROM SalePageData
+2023-05-14 14:10:34,036:INFO:steps in db manager
+2023-05-14 14:10:34,038:INFO:message : conduct the sql => SELECT * FROM SegmentData
+2023-05-14 14:10:34,707:INFO:Finish loading data from DB
+2023-05-14 14:17:26,936:INFO:steps in db manager
+2023-05-14 14:17:26,937:INFO:message : conduct the sql => SELECT * FROM Behavior WHERE UNIX_TIMESTAMP(HitTime) >= 1679673600000 AND UNIX_TIMESTAMP(HitTime) < 1679760000000
+2023-05-14 14:19:36,094:INFO:steps in db manager
+2023-05-14 14:19:36,094:INFO:message : conduct the sql => SELECT * FROM MemberData
+2023-05-14 14:19:49,201:INFO:steps in db manager
+2023-05-14 14:19:49,201:INFO:message : conduct the sql => SELECT * FROM OrderData WHERE OrderDateTime >= 2023-03-25 AND OrderDateTime < 2023-03-26
+2023-05-14 14:20:16,876:INFO:steps in db manager
+2023-05-14 14:20:16,877:INFO:message : conduct the sql => SELECT * FROM OrderSlave WHERE OrderDateTime >= 2023-03-25 AND OrderDateTime < 2023-03-26
+2023-05-14 14:20:18,205:INFO:steps in db manager
+2023-05-14 14:20:18,205:INFO:message : conduct the sql => SELECT * FROM SalePageData
+2023-05-14 14:23:21,981:INFO:steps in db manager
+2023-05-14 14:23:21,982:INFO:message : conduct the sql => SELECT * FROM SegmentData
+2023-05-14 14:23:22,686:INFO:Finish loading data from DB
+2023-05-14 14:30:12,946:INFO:steps in db manager
+2023-05-14 14:30:12,946:INFO:message : conduct the sql => SELECT * FROM Behavior WHERE UNIX_TIMESTAMP(HitTime) >= '1679673600000' AND UNIX_TIMESTAMP(HitTime) < '1679760000000'
+2023-05-14 14:32:18,545:INFO:steps in db manager
+2023-05-14 14:32:18,546:INFO:message : conduct the sql => SELECT * FROM MemberData
+2023-05-14 14:32:27,627:INFO:steps in db manager
+2023-05-14 14:32:27,628:INFO:message : conduct the sql => SELECT * FROM OrderData WHERE OrderDateTime >= '2023-03-25' AND OrderDateTime < '2023-03-26'
+2023-05-14 14:32:47,242:INFO:steps in db manager
+2023-05-14 14:32:47,242:INFO:message : conduct the sql => SELECT * FROM OrderSlave WHERE OrderDateTime >= '2023-03-25' AND OrderDateTime < '2023-03-26'
+2023-05-14 14:32:48,409:INFO:steps in db manager
+2023-05-14 14:32:48,409:INFO:message : conduct the sql => SELECT * FROM SalePageData
+2023-05-14 14:35:54,302:INFO:steps in db manager
+2023-05-14 14:35:54,303:INFO:message : conduct the sql => SELECT * FROM SegmentData
+2023-05-14 14:35:54,989:INFO:Finish loading data from DB
+2023-05-14 14:41:27,743:INFO:steps in db manager
+2023-05-14 14:41:27,744:INFO:message : conduct the sql => SELECT * FROM Behavior WHERE HitTime >= '1679673600000' AND HitTime < '1679760000000'
