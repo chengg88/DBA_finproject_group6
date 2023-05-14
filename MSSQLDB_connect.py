@@ -1,4 +1,3 @@
-import pymssql
 import pandas as pd
 from dbutils.pooled_db import PooledDB, PooledDBError
 from datetime import datetime

@@ -75,3 +75,21 @@
 2023-05-14 14:35:54,989:INFO:Finish loading data from DB
 2023-05-14 14:41:27,743:INFO:steps in db manager
 2023-05-14 14:41:27,744:INFO:message : conduct the sql => SELECT * FROM Behavior WHERE HitTime >= '1679673600000' AND HitTime < '1679760000000'
+2023-05-14 15:20:50,549:INFO:steps in db manager
+2023-05-14 15:20:50,549:INFO:message : conduct the sql => SELECT * FROM OrderData WHERE OrderDateTime >= '2023-11-01' AND OrderDateTime < '2023-03-26'
+2023-05-14 15:20:50,560:INFO:Finish loading data from DB
+2023-05-14 15:25:20,540:INFO:steps in db manager
+2023-05-14 15:25:20,540:INFO:steps in db manager
+2023-05-14 15:25:20,540:INFO:message : conduct the sql => SELECT * FROM OrderData WHERE OrderDateTime >= '2023-11-01' AND OrderDateTime < '2023-03-26'
+2023-05-14 15:25:20,540:INFO:message : conduct the sql => SELECT * FROM OrderData WHERE OrderDateTime >= '2023-11-01' AND OrderDateTime < '2023-03-26'
+2023-05-14 15:25:20,547:INFO:Finish loading data from DB
+2023-05-14 15:25:20,547:INFO:Finish loading data from DB
+2023-05-14 15:26:02,134:INFO:steps in db manager
+2023-05-14 15:26:02,134:INFO:message : conduct the sql => SELECT * FROM OrderData WHERE OrderDateTime >= '2023-11-01' AND OrderDateTime < '2023-03-26'
+2023-05-14 15:26:02,142:INFO:Finish loading data from DB
+2023-05-14 15:26:49,655:INFO:steps in db manager
+2023-05-14 15:26:49,656:INFO:message : conduct the sql => SELECT * FROM OrderData WHERE OrderDateTime >= '2022-11-01' AND OrderDateTime < '2023-03-26'
+2023-05-14 15:26:49,863:INFO:Finish loading data from DB
+2023-05-14 15:27:50,998:INFO:steps in db manager
+2023-05-14 15:27:50,999:INFO:message : conduct the sql => SELECT * FROM OrderData WHERE OrderDateTime >= '2022-11-01' AND OrderDateTime < '2023-03-26'
+2023-05-14 15:27:51,189:INFO:Finish loading data from DB
