@@ -32,7 +32,7 @@ class DataManager:
         elif TableName == 'SegmentData':
             self.SegmentData = manager.get_db_table('SegmentData')
             self.logger.info('Finish loading data from DB')
-            return self.SalePageData
+            return self.SegmentData
         
     def read_ALL_data_from_db(self):
         manager = Manager(self.logger, self.config ,self.start ,self.end)
